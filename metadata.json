@@ -1,0 +1,6 @@
+{
+  "name": "Bus Jam Mobile",
+  "description": "A mobile-only 2.5D transit puzzle game featuring 100 deterministic levels, directional traffic unblocking, FIFO passenger boarding, parking bay management, and tactical boosters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

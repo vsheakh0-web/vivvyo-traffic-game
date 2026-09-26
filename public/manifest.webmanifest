@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Bus Jam Mobile",
+  "short_name": "Bus Jam",
+  "description": "A mobile-only 2.5D transit puzzle game featuring 100 deterministic levels, realistic 3D-extruded cars and buses, FIFO passenger boarding, and tactical boosters.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "categories": ["games", "puzzle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
